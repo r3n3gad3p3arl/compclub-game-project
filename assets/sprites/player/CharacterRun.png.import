@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://da8tmo546cbj4"
-path="res://.godot/imported/player-climb-2.png-27bc86f4abc65a4395b50cd1ad41a2f3.ctex"
+uid="uid://bmqun4r3s2cw8"
+path="res://.godot/imported/CharacterRun.png-55a83fa6f229ac296d97bbca66822a8a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/player/climb/player-climb-2.png"
-dest_files=["res://.godot/imported/player-climb-2.png-27bc86f4abc65a4395b50cd1ad41a2f3.ctex"]
+source_file="res://assets/sprites/player/CharacterRun.png"
+dest_files=["res://.godot/imported/CharacterRun.png-55a83fa6f229ac296d97bbca66822a8a.ctex"]
 
 [params]
 

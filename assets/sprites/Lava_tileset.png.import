@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d1wxwdlc1xaoi"
-path="res://.godot/imported/player-crouch-1.png-01cc80ba9a2a06ad733f07ad29b20f18.ctex"
+uid="uid://brfxstrqlixk0"
+path="res://.godot/imported/Lava_tileset.png-d3eb9075952169c7fb54d85a43969a4a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/player/crouch/player-crouch-1.png"
-dest_files=["res://.godot/imported/player-crouch-1.png-01cc80ba9a2a06ad733f07ad29b20f18.ctex"]
+source_file="res://assets/sprites/Lava_tileset.png"
+dest_files=["res://.godot/imported/Lava_tileset.png-d3eb9075952169c7fb54d85a43969a4a.ctex"]
 
 [params]
 
